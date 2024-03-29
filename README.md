@@ -1,4 +1,4 @@
-y
+Credit Risk Model Stability
 ==============================
 
 A short description of the project.
